@@ -2,7 +2,7 @@
 
 * 📅  Tenho 20 anos de idade.
 * 📚 Estudante de Analise e Desenvolvimento de Sitemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
-* 🏴‍☠️ Amante de Ciberseguraça e Desenvolvimento Web.
+* 🏴‍☠️ Amante de Criptomoedas e Desenvolvimento Web.
 <hr/>
 
 ### 👨‍💻 Aprendendo novas tecnologias:
