@@ -8,11 +8,10 @@
 
 ### 👨‍💻 Aprendendo novas tecnologias:
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=273849&logo=javascript&logoColor=F0DB4F)](#) 
-[![ReactNative Badge](https://img.shields.io/badge/-React%20Native-273849?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=FFFFFF)](#)
-[![React Badge](https://img.shields.io/badge/-React-273849?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=273849)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=273849&logo=node.js&logoColor=3C873A)](#)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](#)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scrowszinho&show_icons=true&theme=dracula)
-
+<div style="display:flex>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
