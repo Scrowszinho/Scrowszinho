@@ -1,9 +1,9 @@
  # Oi, eu sou o Gustavo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-* 📅 Tenho 20 anos de idade.
+* 📅 Tenho 22 anos de idade.
 * 💻 Técnico em informática.
-* 📚 Estudante de Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
-* 🏴‍☠️ Amante de Criptomoedas e Desenvolvimento Web.
+* 📚 Formado em Análise e Desenvolvimento de Sistemas pela [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
+* 🏴‍☠️ Front-end Developer.
 <hr/>
 
 ### 👨‍💻 Aprendendo novas tecnologias:
@@ -12,6 +12,7 @@
 [![ReactNative Badge](https://img.shields.io/badge/-React%20Native-273849?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=FFFFFF)](#)
 [![React Badge](https://img.shields.io/badge/-React-273849?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=273849)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=273849&logo=node.js&logoColor=3C873A)](#)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](#)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=scrowszinho&show_icons=true&theme=dracula)
 
