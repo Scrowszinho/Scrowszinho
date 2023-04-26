@@ -1,4 +1,10 @@
- # Oi, eu sou o Gustavo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=Scrowszinho&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
+  </a>
+</p>
+
+# Oi, eu sou o Gustavo! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 * 📅 Tenho 22 anos de idade.
 * 💻 Técnico em informática.
